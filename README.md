@@ -4,7 +4,7 @@ This is a repository on IoT, Edge, Machine Learning, and AI used in Robotics pro
 ## Intro to IoT in IBM Cloud
 - Step one - singup for free *LITE* account with IBM Cloud - use this link: http://ibm.biz/20191219
 - Step two - create Node.Red service
-- Step three - add IoT - look at the video on adding Watson IoT Platform : https://youtu.be/JdiSVbzz2rI
+- Step three - add IoT - look at the video on adding Watson IoT Platform : https://youtu.be/rG6Dm5cyTss
 - Step four - use a virtual sensor: http://ibm.biz/iotsensor
 - Step five - use the basic flow to read the temp
 
