@@ -14,7 +14,7 @@ This is a repository on IoT, Edge, Machine Learning, and AI used in Robotics pro
 ![](image/temp-flow.png)
 
 - Step six - update the node of `IBM IoT App In` with the id of the virtual sensor (upper right number seen on the face of the virtual temp sensor from step four) for the Quickstart authentication
-- Step seven - use the button `Deply` to update and run the flow
+- Step seven - use the button `Deploy` to update and run the flow
 - Step eight - observe the change of the logs in the debug, when changing the temperature. What happens when the temp in Celcius exceeds 38C?
 
 ## TBC ...
